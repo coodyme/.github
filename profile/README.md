@@ -1,5 +1,5 @@
 <div align='center'>
-<image src='../master/image/logo_circle.png'></image>
+<image src='../main/image/logo_circle.png'></image>
 
 <b>We are bulding
 your future</b>
